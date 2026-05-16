@@ -1,7 +1,10 @@
 {
   "id": "cc-spacebar-dialogue",
-  "version": "1.0.0",
-  "name": "Spacebar Dialogue",
+  "version": "1.0.1",
+  "title": "Spacebar Dialogue",
   "description": "Allows advancing dialogue using the spacebar",
+  "repository": "https://github.com/lexisother/cc-spacebar-dialogue",
+  "tags": ["QoL"],
+  "authors": ["lexisother"],
   "poststart": "src/poststart.js"
 }

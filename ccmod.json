@@ -1,0 +1,7 @@
+{
+  "id": "cc-spacebar-dialogue",
+  "version": "1.0.0",
+  "name": "Spacebar Dialogue",
+  "description": "Allows advancing dialogue using the spacebar",
+  "poststart": "src/poststart.js"
+}

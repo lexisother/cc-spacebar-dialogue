@@ -5,8 +5,7 @@ sc.ScreenInteractEntry.inject({
         ig.interact.setBlockDelay();
         this.callbackObject.onInteraction();
       }
-    } else {
-      this.parent();
     }
+    this.parent();
   },
 });
